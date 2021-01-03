@@ -1,18 +1,7 @@
-class-dump
-==========
+class-dump-ios
+===
 
-class-dump is a command-line utility for examining the Objective-C
-segment of Mach-O files.  It generates declarations for the classes,
-categories and protocols.  This is the same information provided by
-using 'otool -ov', but presented as normal Objective-C declarations.
-
-The latest version and information is available at:
-
-    http://stevenygard.com/projects/class-dump
-
-The source code is also available from my Github repository at:
-
-    https://github.com/nygard/class-dump
+class-dump-ios is a armv7/arm64 build of [class-dump](https://github.com/nygard/class-dump) packaged by theos for jailbroken iOS devices.
 
 Usage
 -----

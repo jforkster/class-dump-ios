@@ -1,0 +1,9 @@
+Package: me.jfoster.classdumpios
+Name: class-dump-ios
+Depends: 
+Version: 0.1
+Architecture: iphoneos-arm
+Description: class-dump packaged for ARMv7 and ARM64
+Maintainer: Jacob Foster <jacobfoster@pm.me>
+Author: Jacob Foster <jacobfoster@pm.me>
+Section: System

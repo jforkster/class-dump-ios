@@ -9,7 +9,7 @@
 #import "CDSection.h"
 
 #include <CommonCrypto/CommonCrypto.h>
-#include "blowfish.h"
+#include "../ThirdParty/blowfish.h"
 
 // Decrypt PAGE_SIZE (4096) bytes
 static void BF_Decrypt_Block(BLOWFISH_CTX *ctx, const uint8_t *ptr, uint8_t *dest)
